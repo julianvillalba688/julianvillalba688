@@ -1,53 +1,71 @@
 <div align="center">
-  <h1>Hi, I'm Julian Villalba 👋</h1>
-  <p><b>Full-Stack Developer & Systems Engineering Student</b></p>
 
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://img.shields.io/badge/Location-Colombia-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
-    </a>
-    <a href="https://github.com/julianvillalba688">
-      <img src="https://img.shields.io/badge/GitHub-PRO-purple?style=for-the-badge&logo=github" />
-    </a>
-  </p>
+# 👾 Julian Villalba :: Dev Log
+### Full-Stack Dev • Data Annotator Analyst • Systems Engineering Student
+
+<a href="[https://www.linkedin.com/in/julian-villalba-216238292/](https://www.linkedin.com/in/julian-villalba-216238292/)">
+  <img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" />
+</a>
+<a href="[https://google.com/maps](https://google.com/maps)">
+  <img src="[https://img.shields.io/badge/Location-Barranquilla%2FColombia-ff0055?style=for-the-badge&logo=googlemaps&logoColor=white](https://img.shields.io/badge/Location-Barranquilla%2FColombia-ff0055?style=for-the-badge&logo=googlemaps&logoColor=white)" />
+</a>
+<a href="#">
+  <img src="[https://img.shields.io/badge/Status-Building_Cool_Stuff-00f0ff?style=for-the-badge&logo=terminal&logoColor=black](https://img.shields.io/badge/Status-Building_Cool_Stuff-00f0ff?style=for-the-badge&logo=terminal&logoColor=black)" />
+</a>
+
 </div>
 
 ---
 
-### 🚀 About Me
+### 🕹️ Player Stats & Equipment
 
-- 🎓 Systems Engineering Student at **Universidad Simón Bolívar**.
-- 💻 Full-Stack Developer working with **Next.js, Java, Python, TypeScript, Supabase, and Vercel**.
-- ⚙️ Building automated workflows, web applications, and data tools.
-- ⚡ Focus: High-performance web apps, UI/UX, and system architecture.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+- **[LVL]:** 18 *(Buffs: +20 Coffee, +15 Stack Overflow, +50 Terminal Speed)*
+- **[CLASS]:** Full-Stack Systems Engineer & Data Tinkerer
+- **[CURRENT QUEST]:** Optimizing AHT workflows & building SaaS with Next.js + Supabase
+- **[MAIN WEAPONS]:** Java | Python | TypeScript | Next.js | Supabase | Vercel
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ Tech Arsenal (Spellbook)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julianvillalba688&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianvillalba688&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+| Frontend & Design | Backend & Databases | Automation & Tools |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff" /> | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> | <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> |
+
 </div>
 
 ---
 
-### 📌 Featured Projects
+### 📊 Real-Time Telemetry
 
-- **[AnnotatePay / TaskRate](https://github.com/julianvillalba688/annotate-pay):** SaaS web tool for data annotators to track tasks, calculate AHT rates, and visualize earnings.
-- **[Salem Store Go](https://github.com/julianvillalba688/salem-store-go):** E-commerce / business management workflow tool.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=julianvillalba688&show_icons=true&theme=synthwave&hide_border=false&border_color=bd93f9&count_private=true" width="48%" alt="Julian's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianvillalba688&layout=compact&theme=synthwave&hide_border=false&border_color=bd93f9" width="48%" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=julianvillalba688&theme=synthwave&hide_border=false&border_color=bd93f9" width="98%" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🎮 Selected Quests (Featured Repos)
+
+- ⚡ **[AnnotatePay / TaskRate](https://github.com/julianvillalba688/annotate-pay):** Calculadora de ganancias y auditor de AHT con snapshots históricos para Data Annotators. Built with Next.js, Supabase & Render.
+- 🛍️ **[salem-store-go](https://github.com/julianvillalba688/salem-store-go):** Automatización de pasarelas de pago y cierres de ventas diarios.
+
+---
+
+<div align="center">
+
+> *"There are 10 types of people in the world: those who understand binary, and those who don't."*
+
+**Let's connect!** 💬 Drop a message on [LinkedIn](https://www.linkedin.com/in/julian-villalba-216238292/)
+
+</div>
