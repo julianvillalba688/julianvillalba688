@@ -46,7 +46,7 @@
 
 <div align="center">
 
-![Mr. Robot Contributions](https://raw.githubusercontent.com/julianvillalba688/julianvillalba688/output/mr-robot-grid.svg)
+<img src="./mr-robot.gif" alt="Mr Robot Animation" width="380" />
 
 > *"There are 10 types of people in the world: those who understand binary, and those who don't."*
 
