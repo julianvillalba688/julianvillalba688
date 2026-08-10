@@ -46,6 +46,8 @@
 
 <div align="center">
 
+![Mr. Robot Contributions](https://raw.githubusercontent.com/julianvillalba688/julianvillalba688/output/mr-robot-grid.svg)
+
 > *"There are 10 types of people in the world: those who understand binary, and those who don't."*
 
 **Let's connect!** 💬 Drop a message on [LinkedIn](https://www.linkedin.com/in/julian-villalba-216238292/)
