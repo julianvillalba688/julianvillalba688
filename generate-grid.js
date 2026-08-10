@@ -25,14 +25,14 @@ async function main() {
             const x = c * (CELL_SIZE + CELL_GAP);
             const y = r * (CELL_SIZE + CELL_GAP);
 
-            // Si el píxel es claro/blanco, enciende el cuadro verde de GitHub
+            // Si el píxel es claro/blanco, es parte de la cara.
             const isLit = pixelValue > 128;
-            const color = isLit ? '#39d353' : '#161b22';
 
-            // Añade el cuadro con retraso de animación según la posición
-            rects += `  <rect x="${x}" y="${y}" width="${CELL_SIZE}" height="${CELL_SIZE}" rx="2" fill="${color}">
-    <animate attributeName="opacity" values="0;1" dur="1.5s" begin="${(r + c) * 0.03}s" fill="freeze" />
-  </rect>\n`;
+            // Añadimos una clase condicional 'face-cell' si es parte de la cara
+            const cellClass = isLit ? 'face-cell' : 'bg-cell';
+
+            // Dibujamos el rectángulo
+            rects += `  <rect x="${x}" y="${y}" width="${CELL_SIZE}" height="${CELL_SIZE}" rx="2" class="${cellClass}" />\n`;
         }
     }
 
@@ -40,14 +40,38 @@ async function main() {
     const height = ROWS * (CELL_SIZE + CELL_GAP);
 
     const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">
+  <!-- Estilos CSS para el Easter Egg -->
+  <style>
+    /* Estilo por defecto de las celdas */
+    rect.bg-cell {
+      fill: #161b22; /* Color apagado de GitHub */
+      transition: fill 0.3s ease;
+    }
+    
+    rect.face-cell {
+      fill: #161b22; /* Color apagado de GitHub por defecto */
+      transition: fill 0.3s ease;
+    }
+
+    /* Estilo al hacer hover sobre la cuadrícula entera */
+    g#grid:hover rect.face-cell {
+      fill: #39d353; /* Verde brillante al hacer hover */
+    }
+    
+    g#grid:hover rect.bg-cell {
+      fill: #161b22; /* Se mantiene igual */
+    }
+  </style>
+
   <rect width="100%" height="100%" fill="#0d1117" rx="6"/>
-  <g transform="translate(5, 5)">
+  <!-- Contenedor del grupo con ID #grid -->
+  <g id="grid" transform="translate(5, 5)">
 ${rects}  </g>
 </svg>`;
 
     fs.mkdirSync('dist', { recursive: true });
     fs.writeFileSync('dist/mr-robot-grid.svg', svg);
-    console.log('SVG generado con éxito en dist/mr-robot-grid.svg');
+    console.log('SVG Easter Egg generado con éxito en dist/mr-robot-grid.svg');
 }
 
 main().catch(console.error);
