@@ -1,0 +1,23 @@
+{
+  "name": "julianvillalba688",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "generate-grid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianvillalba688/julianvillalba688.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianvillalba688/julianvillalba688/issues"
+  },
+  "homepage": "https://github.com/julianvillalba688/julianvillalba688#readme",
+  "dependencies": {
+    "sharp": "^0.35.3"
+  }
+}
